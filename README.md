@@ -28,7 +28,6 @@ Sou uma desenvolvedora backend em formação, interessada em aprender novas tecn
 
 ## 📫 Como me encontrar
 
-[![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO-87cefa?style=for-the-badge)](https://web.dio.me/users/academicoanavitor/)
 [![Gmail](https://img.shields.io/badge/Gmail-87cefa?style=for-the-badge&logo=gmail&logoColor)](mailto:contatoanavitor@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-87cefa?style=for-the-badge&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/contatoanavitor)
 [![Telegram](https://img.shields.io/badge/Telegram-87cefa?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/anapvitorr)
